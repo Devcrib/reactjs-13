@@ -1,3 +1,3 @@
 # reactjs-13
-https://git.heroku.com/snowmountain.git
+https://snowmountain.herokuapp.com/
 https://devcrib.github.io/reactjs-13/
