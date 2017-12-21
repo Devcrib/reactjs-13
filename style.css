@@ -103,7 +103,7 @@ body, html {
       width: 92%;
       float: left;
       height: 100%;
-      background-image: url(../codes/images/outside4.jpeg);
+      background-image: url(images/outside4.jpeg);
       background-position: top;
       background-size: cover; }
       /* line 111, style.scss */
@@ -167,7 +167,7 @@ body, html {
         filter: grayscale(1%); }
         /* line 172, style.scss */
         .wrapper1 .mountains .mount .volcano .image {
-          background-image: url(../codes/images/inside3.jpg);
+          background-image: url(images/inside3.jpg);
           background-position: top;
           background-size: cover;
           width: 100%;
